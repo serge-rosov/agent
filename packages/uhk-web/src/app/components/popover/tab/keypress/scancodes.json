@@ -561,6 +561,14 @@
                 }
             },
             {
+                "id": "145",
+                "text": "Sleep2",
+                "additional": {
+                    "type": "media",
+                    "scancode": 50
+                }
+            },
+            {
                 "id": "141",
                 "text": "Wake Up",
                 "additional": {

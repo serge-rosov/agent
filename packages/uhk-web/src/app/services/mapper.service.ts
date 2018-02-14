@@ -207,6 +207,7 @@ export class MapperService {
         this.basicScanCodeTextMap.set(177, ['000']);
 
         this.mediaScanCodeTextMap = new Map<number, string[]>();
+        this.mediaScanCodeTextMap.set(50,  ['Sleep2']);
         this.mediaScanCodeTextMap.set(138, ['WWW']);
         this.mediaScanCodeTextMap.set(176, ['Play']);
         this.mediaScanCodeTextMap.set(177, ['Pause']);
